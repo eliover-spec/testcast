@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Azteca UNO 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+#EXTINF:-1, Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1, ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
+#EXTINF:-1,TELEVISA NOVELAS
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
+#EXTINF:-1, La 2 España
+https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
