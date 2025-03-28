@@ -1,11 +1,58 @@
 #EXTM3U
 #EXTINF:-1,Azteca UNO 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+#EXTINF:-1, La 1 España
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1, Clan España
 #EXTINF:-1, Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1, A+ GUATE
+https://ch2-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1, TvAzteca GUATE
+https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1, TvAzteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+#EXTINF:-1, TvAzteca CINEMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+#EXTINF:-1, TvAzteca CLIP
+https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
+
 #EXTINF:-1, ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
 #EXTINF:-1,TELEVISA NOVELAS
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
-#EXTINF:-1, La 2 España
-https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
+#EXTINF:-1, AmigosTV Chiquimula GT
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+#EXTINF:-1, CANAL 27 Guatemala
+https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
+#EXTINF:-1, ENLACE
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b1712000_sleng.m3u8
+#EXTINF:-1, Canal 3 Guatemala
+https://dge88l7454gi1.cloudfront.net/index.m3u8
+#EXTINF:-1, Canal 5 Honduras
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+#EXTINF:-1, Canal 7 Guatemala
+https://d3r1d0jzdq322.cloudfront.net/index.m3u8
+#EXTINF:-1, TN 23 Guatemala
+https://d4bee8qaav6x0.cloudfront.net/index.m3u8
+#EXTINF:-1, TIGO SPORTS Guatemala
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+#EXTINF:-1, Telemundo 51 Miami
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+#EXTINF:-1, Telemundo Tu Canal PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1, TV Maya Guatemala
+https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
+#EXTINF:-1, RCN MÁS
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1, CANELA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+#EXTINF:-1, ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+
+
+
+
+
+
