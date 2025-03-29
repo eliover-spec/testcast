@@ -95,6 +95,8 @@ http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 https://fl2.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1, Cartoon Network East
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1, CBS (WBZ)
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 
 #EXTINF:-1,CBS SPORTS NETWORK
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
@@ -126,6 +128,11 @@ http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1, ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1, ESPN NEWS 
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1, ESPN
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 
 #EXTINF:-1, FS1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
@@ -173,3 +180,80 @@ http://fl2.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1, Laff TV
 http://72.46.118.193/Laff/index.m3u8
 
+
+#EXTINF:-1, LMN
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+
+#EXTINF:-1, MeTV
+http://fl2.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1, MLMB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1, Motor Trend
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1, MTV East
+http://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1, MTV2 East
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1, MTV CLassic
+http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1, MTV Live
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1, mtv U
+http://fl2.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1, Mational Geographic East
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1, National Geographic Wild
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1, NEWS National
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+
+#EXTINF:-1, NHL NETWORK
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+
+#EXTINF:-1, Nickelodeom East
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+
+#EXTINF:-1, NICKTOONS East
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+
+#EXTINF:-1, OWN East
+http://fl2.moveonjoy.com/OWN/index.m3u8
+
+#EXTINF:-1, Outdoor CHANNEL
+http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1, Paramount Network East
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1, SEC NETWORK
+http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
+#EXTINF:-1, Showtime Next East
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#Extinf:-1, Showtime Women East
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+
+#EXTINF:-1, Stadium
+http://fl2.moveonjoy.com/STADIUM/index.m3u8
+#EXTINF:-1, SYFY East
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1, TBS 
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1, TCM (TURNER CLASSIC MOVIES)
+http://fl1.moveonjoy.com/TCM/index.m3u8
+
+#EXTINF:-1, TENNIS CHANNEL
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+
+#EXTINF:-1, TNT East
+http://fl2.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1, TVONE East
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1, VH1 East
+http://fl2.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1, THE WEATHER CHANNEL
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1, We TV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1, YES Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
